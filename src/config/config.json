@@ -1,0 +1,17 @@
+{
+    "development": {
+      "username": "root",
+      "password": "",
+      "database": "LibraryManagement",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "prod_user",
+      "password": "prod_password",
+      "database": "prod_database",
+      "host": "production-db-host",
+      "dialect": "mysql"
+    }
+  }
+  
